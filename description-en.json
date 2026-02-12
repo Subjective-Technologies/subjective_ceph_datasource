@@ -1,4 +1,5 @@
 {
+  "description": "Connector scaffold for Ceph object storage intended to ingest bucket content into BrainBoost. Current fetch behavior is a placeholder.",
   "domainCategory": "Cloud & DevOps",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Ceph",
-      "text": "A Subjective data source for Ceph. This data source is currently a skeleton (fetch returns no items).",
+      "text": "Connector scaffold for Ceph object storage intended to ingest bucket content into BrainBoost. Current fetch behavior is a placeholder.",
       "image": {
         "src": "/subjective_ceph_datasource/icon.svg",
         "alt": "Ceph icon"
